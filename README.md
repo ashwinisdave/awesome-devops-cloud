@@ -249,6 +249,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Prometheus | Leading open-source monitoring system and time series database | https://prometheus.io/ | 2025-07-10 |
 | Grafana | Industry-standard visualization and observability platform | https://grafana.com/ | 2025-07-10 |
 | Datadog | Cloud monitoring and analytics platform with full-stack observability | https://www.datadog.com/ | 2025-07-10 |
+| Middleware | Full-stack observability platform that detects issues from various sources and resolves them using AI | https://middleware.io/ | 2026-05-01 |
 | Dynatrace | AI-powered observability platform with automatic distributed tracing | https://www.dynatrace.com/ | 2025-07-10 |
 | New Relic | Full-stack observability platform with real-time analytics | https://newrelic.com/ | 2025-07-10 |
 | Elastic Stack | Centralized logging with search, analysis, and visualization capabilities | https://www.elastic.co/ | 2025-07-10 |
